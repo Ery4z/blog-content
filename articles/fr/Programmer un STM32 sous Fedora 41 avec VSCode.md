@@ -6,6 +6,7 @@ cover: ""
 tags:
   - STM32
   - Fedora
+draft: true
 ---
 
 ## À propos
