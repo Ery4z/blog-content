@@ -1,6 +1,6 @@
 ---
 title: 'Programmer un STM32 sous Fedora 41 avec VSCode'
-date: '2025-03-03'
+date: '2025-04-01'
 description: 'Mise en place de l'environement de développement du STM32F411RE sous Linux (Fedora 41) avec Visual Studio Code
 cover: ''
 tags: ['STM32','Fedora']
