@@ -8,7 +8,7 @@ tags: ['STM32','Fedora']
 
 ## À propos
 
-Dans cet article nous allons mettre en place environment pour pouvoir programmer des STM32 en C via [VSCode](https://code.visualstudio.com/) en intégrant les outils fourni par STMicroelectronics pour générer simplement les bases nécéssaire poru régirer un firmware.
+Dans cet article nous allons mettre en place environment pour pouvoir programmer des STM32 en C via [VSCode](https://code.visualstudio.com/) en intégrant les outils fourni par STMicroelectronics pour générer simplement les bases nécéssaire pour régirer un firmware.
 
 ## Prérequis
 
@@ -24,7 +24,7 @@ Dans cet article nous allons mettre en place environment pour pouvoir programmer
 
 > Attention a ne pas aller trop vite lors des instalaltions ! La majorité des soucis lié à l'installation proviennent d'une erreur lié au chemin d'installation des dépendances.
 
-### Outils STM'32
+### Outils STM32
 
 Dans un premier temps nosu allosn installer les outils propriétaire de STM afin de pouvoir intérargir simplement avec le microcontrolleur.
 
@@ -48,8 +48,21 @@ Maintenant que l'extension est intallée nous allons pouvoir la configurer en fo
 > Image de la roue dentée
 3. Ajouter le chemin d'accès des différents exécutable ainsi que du dossier STM32CubeCLT
 
-Le paramètrage des outils est maintenant effectué ! Nous allons pouvori procéder avec la création de notre premier projet et vérifier que tout est bien installé correctement.
-
-4. 
+Le paramètrage des outils est maintenant effectué ! Nous allons pouvoir procéder avec la création de notre premier projet et vérifier que tout est bien installé correctement.
 
 ## Hello World
+
+L'objectif va être d'envoyer un simple message par UART depluis notre STM32 ainsi que de faire clignoter la LED intérgré. 
+
+>Cette partie du tutoriel est écrit pour le [STM32F411RE](https://www.st.com/en/evaluation-tools/nucleo-f411re.html) il se peut qu'en fonction de votre devboard précise le numéro des pins varie.
+
+### Génération du code de base et utilisation de STM32CubeMX
+
+STM32CubeMX est le logiciel propriétaire de STM permettant de configurer graphiquement notre microcontrolleur ainsi que de générer automatiquement le code nécéssaire à cette configuration. Dans le cas de projet plsu avancé comme seront présenté dans les article suivant, il est possible de configurer automatiquement des fonctionnalitées comme le SPI, UART, I2C, DMA, ... 
+
+1. Ouvrir dans VSCode l'onglet **\[STM32 VS Code Extension\]** 
+> Mettre image
+
+2. Ouvrir **STM32CubeMX** grâce au bouton dédié
+> Image
+
