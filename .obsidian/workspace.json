@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/fr/Programmer un STM32 sous Fedora 41 avec VSCode.md",
+                "file": "articles/en/Programming an STM32 on Fedora 41 with VSCode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programmer un STM32 sous Fedora 41 avec VSCode"
+              "title": "Programming an STM32 on Fedora 41 with VSCode"
             }
           }
         ]
@@ -183,6 +183,9 @@
   },
   "active": "161ecd65f30272c5",
   "lastOpenFiles": [
+    "articles/fr/Programmer un STM32 sous Fedora 41 avec VSCode.md",
+    "articles/en/Programming an STM32 on Fedora 41 with VSCode.md",
+    "articles/en",
     "articles/fr/_resources/d50c96450533bb1c400e9639886e5d96_MD5.jpeg",
     "Pasted image 20250304231059.png",
     "articles/fr/_resources/03ad4d833cd46a328094ed00fc7ad68d_MD5.jpeg",
@@ -193,8 +196,6 @@
     "Pasted image 20250304220314.png",
     "articles/fr/_resources/3d5912c25cd851925369a38a9380851c_MD5.jpeg",
     "Pasted image 20250304215257.png",
-    "articles/fr/_resources/f33b7af6c74c024efb1924b979d1152b_MD5.jpeg",
-    "articles/fr/Programmer un STM32 sous Fedora 41 avec VSCode.md",
     "articles/fr/_resources/Programmer.md",
     "articles/fr/_resources/Programmer",
     "articles/fr/_resources",
@@ -203,7 +204,6 @@
     "README.md",
     "Untitled.md",
     "articles/fr",
-    "Untitled",
     "articles"
   ]
 }
