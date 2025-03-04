@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a4f4991d1c9ab2",
+        "id": "cf5aa5008aa8e7c9",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e390beeaf5caee",
+            "id": "161ecd65f30272c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,14 +177,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "edit-mdx:New .mdx file": false
+      "edit-mdx:New .mdx file": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c3e390beeaf5caee",
+  "active": "161ecd65f30272c5",
   "lastOpenFiles": [
-    "().md",
+    "articles/fr/_resources/d50c96450533bb1c400e9639886e5d96_MD5.jpeg",
+    "Pasted image 20250304231059.png",
+    "articles/fr/_resources/03ad4d833cd46a328094ed00fc7ad68d_MD5.jpeg",
+    "Pasted image 20250304230643.png",
+    "articles/fr/_resources/38e1bcc86ec027345ccf54802b507a1a_MD5.jpeg",
+    "Pasted image 20250304222123.png",
+    "articles/fr/_resources/6f0effcd4ef4d3a78261265f03e778d3_MD5.jpeg",
+    "Pasted image 20250304220314.png",
+    "articles/fr/_resources/3d5912c25cd851925369a38a9380851c_MD5.jpeg",
+    "Pasted image 20250304215257.png",
+    "articles/fr/_resources/f33b7af6c74c024efb1924b979d1152b_MD5.jpeg",
     "articles/fr/Programmer un STM32 sous Fedora 41 avec VSCode.md",
+    "articles/fr/_resources/Programmer.md",
+    "articles/fr/_resources/Programmer",
+    "articles/fr/_resources",
     "projects/my-first-rocket-launch.mdx",
+    "().md",
     "README.md",
     "Untitled.md",
     "articles/fr",
